@@ -34,7 +34,7 @@ At a high level we will be looking for:
 
 ### Submission
 Please upload your completed test to a publicly-accessible repository in a hosting service (e.g. GitHub), 
-and send a link to your recruitment contact at Sky Bet.
+and send a link to your recruitment contact.
 
 ## Installation
 ### Pre-requisites
@@ -60,4 +60,3 @@ Using the provided API:
     1. Bearing the delay in mind, create a new fixture and then retrieve it as soon as it's available
 1. Create and delete a new fixture.
     1. Assert that the fixture no longer exists.
-# technical_tester_assessment
