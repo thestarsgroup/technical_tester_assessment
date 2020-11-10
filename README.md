@@ -1,4 +1,4 @@
-# The Stars Group - GSTP Tribe
+# PokerStars - ISP Tribe
 ## SEiT Technical Test Assessment
 
 This test comes with a mock API server that represents a snapshot of our internal Trading Engine.
@@ -15,13 +15,13 @@ We realise that everyone has different levels of skills and experience when it c
 and so if you do not have the time or knowledge to complete all tasks, that's okay, 
 we just want to see how you would approach the problem and get a feel for how you code.
 
-Take no more than 1.5 to 3 hours on this test.
 
 ### Languages
 This is a test automation focused test, so the end deliverable should be a test framework with various assertions 
 against the provided endpoints. 
 
-How you get there is up to you: we typically use Node.js or Kotlin, but you may use any mainstream language you like.
+Most of our test frameworks are Java based. You may use any mainstream language you like(Java, Kotlin, Node.js etc). The tools and languages you use to solve the 
+problem is up to the individual.
 
 ### Review Criteria
 At a high level we will be looking for:
